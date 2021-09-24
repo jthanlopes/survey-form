@@ -4,8 +4,14 @@
 	box-sizing: border-box;
 }
 
-#container {
-	max-width: 1030px;
-	margin: 0 auto;
-	text-align: center;
+#main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#survey-form {
+	display: flex;
+	flex-direction: column;
 }
