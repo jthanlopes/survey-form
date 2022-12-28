@@ -1,14 +1,10 @@
-# Projeto "Survey Form"
-Este projeto é o segundo desafio do curso Web Design Responsivo do freeCodeCamp.
-
-[![N|Solid](https://i.imgur.com/aDpzRqJ.png)](https://www.freecodecamp.org/)
+# Projeto _Survey Form_
+Este projeto é o segundo desafio do curso Web Design Responsivo do [freeCodeCamp](https://www.freecodecamp.org/).
 
 ## Sobre o projeto
 
 O projeto precisa atender a várias histórias de usuário para passar nos testes.
-Mais detalhes no link:
-
-[![N|Solid](https://i.imgur.com/15wslX5.png)](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+[Link com as histórias de usuário.](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 
 ## Tecnologias
 
